@@ -1,5 +1,9 @@
 Day O2 CSS Clock
 
+Clocks animations: https://cssanimation.rocks/clocks/
+
+
+
 HTML vs. Boday in CSS
 
 The difference between <html> and <body> is easy to overlook.
@@ -33,3 +37,4 @@ Not a good idea
 
 5. throw bkg-color on html and use CSS as a wrapper 
    so no need to define an extra div-container with a class of "wrapper" (saw someone write <div class="wrapper"> after body tag)
+circle: border-radius 50%
