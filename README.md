@@ -3,4 +3,5 @@ This is a 30 days challenge, in which I learn and build one small project to pra
 JavaScript only, no framework or library 
 One project per day
 
-day-1 drumkit 
+day-01 drumkit 
+day-02 CSS clock
